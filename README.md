@@ -21,3 +21,25 @@ Space Exploration game where you build rockets, experiment with chemical reactio
 - **Difficulty**: System that change gameplay each difficulty
 - **Body Physics**: Realistic Physics for Planets, Stars, Asteroids, Moons, and Dwarf Planets
 - **Building System**: For building vehicles and stations for space exploration and experimentation
+
+---
+
+## TODO list:
+1. Plan the features and UI
+    - Rocket Stats
+    - Celestial Body Info
+    - Heuristic Physics Prediction
+2. Add Celestial Bodies:
+    - Sun
+    - Mercury
+    - Venus
+    - Earth, Luna
+    - Mars, Phobos, Deimos
+    - Ceres
+3. Add Physics and the Rocket:
+    - Velocity
+    - Thrust
+    - Gravity
+    - Mass
+    - Atmospheric Density
+    - Orbital Mechanics
