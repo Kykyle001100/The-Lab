@@ -18,6 +18,6 @@ Space Exploration game where you build rockets, experiment with chemical reactio
 
 ## Next Features
 - **Controls, Features, and Labcopedia**: Appears when you click `About` button
-- **Difficulty**: System that chage gameplay each difficulty
+- **Difficulty**: System that change gameplay each difficulty
 - **Body Physics**: Realistic Physics for Planets, Stars, Asteroids, Moons, and Dwarf Planets
 - **Building System**: For building vehicles and stations for space exploration and experimentation
