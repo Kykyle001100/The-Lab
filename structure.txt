@@ -1,0 +1,23 @@
+import <>
+
+from <> import **<>
+
+init
+
+classes:
+    input box
+    buttons
+
+functions:
+    load save
+
+scenes:
+    create new menu
+    load menu
+    play game
+    main menu
+
+main
+
+if name == "main":
+    main()
